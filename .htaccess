@@ -2,7 +2,7 @@
 RewriteEngine On
 
 # Installation directory
-RewriteBase /kohana3/
+RewriteBase /
 
 # Protect hidden files from being viewed
 <Files .*>
